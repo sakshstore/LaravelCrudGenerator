@@ -1,5 +1,5 @@
 {
-    "name": "sakshstore/laravel-9-crud-generator",
+    "name": "sakshstore/LaravelCrudGenerator",
     "description": "Laravel 9 Crud Generator",
     "license": "MIT",
     "authors": [
@@ -15,13 +15,13 @@
     },
     "autoload": {
         "psr-4": {
-            "sakshstore\\laravel-9-crud-generator\\": "src/"
+            "sakshstore\\LaravelCrudGenerator\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "sakshstore\\laravel-9-crud-generator\\CrudServiceProvider"
+                "sakshstore\\LaravelCrudGenerator\\CrudServiceProvider"
             ]
         }
     },
