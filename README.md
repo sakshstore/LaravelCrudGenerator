@@ -16,7 +16,7 @@ This Laravel Generator package provides and generate Controller, Model (with elo
 ## Installation
 1 - Install
 ```
-composer require sakshstore/laravel-9-crud-generator
+composer require sakshstore/laravel-crud-generator
 ```
 2- Publish the default package's config
 ```
